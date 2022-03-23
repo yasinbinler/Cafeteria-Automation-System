@@ -1,0 +1,121 @@
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.exe
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.deps.json
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.json
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form1.resources
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfo.cs
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.genruntimeconfig.cache
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form2.resources
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Properties.Resources.resources
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CopyComplete
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Syncfusion.DataSource.Portable.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.exe
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.deps.json
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.json
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Syncfusion.DataSource.Portable.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form1.resources
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form2.resources
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Properties.Resources.resources
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfo.cs
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CopyComplete
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\New folder (2)\yemek_maliyet_hesaplama\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.exe
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.deps.json
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.json
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.dev.json
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Syncfusion.DataSource.Portable.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csprojAssemblyReference.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form1.resources
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form2.resources
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Properties.Resources.resources
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CopyComplete
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.genruntimeconfig.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.exe
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.deps.json
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.json
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Syncfusion.DataSource.Portable.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form1.resources
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Form2.resources
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.Properties.Resources.resources
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.AssemblyInfo.cs
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.CopyComplete
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.pdb
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.genruntimeconfig.cache
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Yasin\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.ResolveComReference.cache
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\fatih\Desktop\Y_M_H\yemek_maliyet_hesaplama\obj\Debug\netcoreapp3.1\yemek_maliyet_hesaplama.csproj.ResolveComReference.cache
